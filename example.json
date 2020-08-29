@@ -11,7 +11,7 @@
     {
       "scenes": [
         {
-          
+
         }
       ]
     }
@@ -27,7 +27,7 @@ Hey Ben, I like your t shirt
 
 > Ben
 
-## Ben 
+## Ben
 {:data-name="ben"}
 
 <h2 data-name="ben">Ben</h2>

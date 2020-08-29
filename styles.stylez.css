@@ -1,3 +1,55 @@
 body {
-  /* background: rgb(36, 110, 176); */
+  font-family: "Courier", "Roboto Slab", serif;
+}
+
+h1 {
+  padding-top: 5em;
+}
+
+h2 {
+  padding-top: 3em;
+}
+
+h3 {
+  padding-top: 1em;
+}
+
+h1,
+h2,
+h3 {
+  font-size: 1em;
+  text-align: center;
+  text-transform: uppercase;
+  transform: rotate(0.8deg);
+}
+
+h1:nth-child(n + 1),
+h2:nth-child(n + 2),
+h3:nth-child(n + 3) {
+  transform: rotate(-0.8deg);
+}
+
+h1::before,
+h2::before {
+  content: "~ ";
+}
+
+h1::after,
+h2::after {
+  content: " ~";
+}
+
+/* these are events in a script */
+blockquote {
+  color: red;
+  font-size: 1.2em;
+  font-weight: 700;
+  text-align: center;
+}
+
+blockquote > p::before {
+  content: "🚨";
+}
+blockquote > p::after {
+  content: "🚨";
 }
