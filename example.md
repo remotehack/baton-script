@@ -13,6 +13,10 @@ A guy with a GoPro, who's sort of alright at snowboarding.
 
 Some rando.
 
+> Pete
+
+A lean, mean, laptop-building machine
+
 # Setting
 
 A ski lift deep in the French Alps.
@@ -30,7 +34,9 @@ Winter, 2019
 
 Ryan and Ben are sat on a ski lift.
 
-> Ryan
+[//]: # Wow a comment
+
+## Ryan {:data-name="ben"}
 
 Hey Ben, I like your t shirt
 
