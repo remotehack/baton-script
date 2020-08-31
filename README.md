@@ -31,3 +31,4 @@ I've got a bad feeling about this
 - party
 - baton
 - talkyscript
+- rehearsilator

@@ -53,3 +53,24 @@ blockquote > p::before {
 blockquote > p::after {
   content: "🚨";
 }
+
+#characters {
+  text-transform: capitalize;
+  color: #f08;
+  position: fixed;
+  z-index: 1;
+  background: #fff;
+}
+
+.inactive {
+  color: grey;
+}
+p.active,
+h3.active {
+  color: black;
+  background: lightblue;
+}
+
+blockquote > p.active {
+  background: none;
+}

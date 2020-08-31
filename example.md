@@ -69,7 +69,6 @@ The stranger is just a friend you haven't met yet
 
 ### Ryan
 
-<whispering to Ben>
 This pizza is a little bit weird doesn't really make any sense
 
 ### Ben
